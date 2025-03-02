@@ -1,0 +1,19 @@
+Controller 1:
+    Left Stick= Drive
+    Left Bumper= Rotate Left
+    Right Bumper= Rotate Right
+    A=
+    B= Reset Wheels
+
+ControllerAum
+    Dpad up= shooter up
+    Dpad down= shooter down
+    X = Shoot
+    Y = Shoot Backwards
+    A= Intake Suck
+    B= Intake Unsuck
+    Right Bumper= Wrist rotates up
+    Left Bumper= Wrist rotates down
+    Release Button= stops movement
+
+    Right stick button = hold wrist switch
